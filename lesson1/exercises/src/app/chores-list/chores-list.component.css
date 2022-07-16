@@ -1,0 +1,13 @@
+.chores {
+    font: Verdana, sans-serif;
+    font-size: large;
+    color: skyblue;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
