@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FavPhotosComponent implements OnInit {
   photosTitle = 'Favorite Photos';
-  image1 = '';
+  image1 = '../../assets/images/image0.jpg';
   image2 = '../../assets/images/image1.jpg';
   image3 = '../../assets/images/image2.jpg';
 
